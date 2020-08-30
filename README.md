@@ -9,9 +9,9 @@ Learning PostgreSQL
 2. psql -h localhost -p 5432 -d "POSTGRES_DB" -U "POSTGRES_USER"
 
 # References 
-[Download and install Postgres.app](https://postgresapp.com/)
-[Getting Started with PostgreSQL using Docker-Compose](https://medium.com/analytics-vidhya/getting-started-with-postgresql-using-docker-compose-34d6b808c47c) - Zhao Li, 2019
+- [Download and install Postgres.app](https://postgresapp.com/)
+- [Getting Started with PostgreSQL using Docker-Compose](https://medium.com/analytics-vidhya/getting-started-with-postgresql-using-docker-compose-34d6b808c47c) - Zhao Li, 2019
 
 # Credits
-AmigosCode - https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw
-Zhao LI - https://medium.com/@zhao.li
+- AmigosCode - https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw
+- Zhao LI - https://medium.com/@zhao.li
